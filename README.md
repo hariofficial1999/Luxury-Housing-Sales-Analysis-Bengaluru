@@ -1,8 +1,5 @@
 # 🌆 Luxury Housing Bangalore 
 
-> A premium analytics solution for visualizing real-estate trends, builder reliability, and market conversion rates in the Bangalore Luxury sector.
-
----
 
 ### 📋 Project Overview
 The **Luxury Housing Bangalore (LHB)** analytics project transforms raw transaction data into actionable business intelligence. It focuses on the high-end segment, providing granular visibility into property configurations and pricing strategies.
