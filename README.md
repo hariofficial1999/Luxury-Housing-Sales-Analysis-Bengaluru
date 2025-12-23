@@ -1,6 +1,8 @@
 # 🌆 Luxury Housing Bangalore 
 
 
+---
+
 ### 📋 Project Overview
 The **Luxury Housing Bangalore (LHB)** analytics project transforms raw transaction data into actionable business intelligence. It focuses on the high-end segment, providing granular visibility into property configurations and pricing strategies.
 
@@ -48,5 +50,7 @@ LHB_Analytics/
    python clean_final.py
    ```
 2. **Open Dashboard**: Launch `Luxury.pbix` in Power BI.
-3. **Connect Source**: Map the model to `Final_Cleaned_Luxury_Housing.csv`.
+3. **Connect Source**: Map the model to `Cleaned_Luxury_Housing_Bangalore.csv`.
 4. **Deploy**: Update visuals to reflect the latest market trends.
+
+---
