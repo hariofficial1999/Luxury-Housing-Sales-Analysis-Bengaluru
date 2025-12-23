@@ -1,4 +1,4 @@
-# 🌆 Luxury Housing Bangalore - Project Dashboard
+# 🌆 Luxury Housing Bangalore 
 
 > A premium analytics solution for visualizing real-estate trends, builder reliability, and market conversion rates in the Bangalore Luxury sector.
 
